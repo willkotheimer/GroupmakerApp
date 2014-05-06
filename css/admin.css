@@ -1,0 +1,21 @@
+#right{
+width: 240px;
+float: right;
+height: 100%;
+padding: 10px;
+background-color: red;
+color: gray;
+margin: 10px; 
+
+
+}
+
+
+#left {
+width: 300px;
+float: left; 
+height: 100%
+background-color: white;
+color: gray;
+}
+

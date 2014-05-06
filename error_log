@@ -1,0 +1,105 @@
+[02-May-2014 20:13:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'YOUR.database.info.hostedresource.com' (0) in /home3/willko/public_html/thisisgroupa.com/add.php on line 3
+[02-May-2014 21:08:24] PHP Parse error:  syntax error, unexpected '{' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 10
+[02-May-2014 21:09:06] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 10
+[02-May-2014 21:09:09] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 10
+[02-May-2014 21:09:12] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 10
+[02-May-2014 21:09:52] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 11
+[02-May-2014 21:10:18] PHP Parse error:  syntax error, unexpected T_STRING in /home3/willko/public_html/thisisgroupa.com/routing.php on line 10
+[02-May-2014 21:10:48] PHP Parse error:  syntax error, unexpected '=' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 11
+[02-May-2014 21:11:16] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 19
+[02-May-2014 21:11:57] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 19
+[02-May-2014 21:12:00] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 19
+[02-May-2014 21:13:11] PHP Fatal error:  Function name must be a string in /home3/willko/public_html/thisisgroupa.com/routing.php on line 11
+[02-May-2014 21:14:22] PHP Parse error:  syntax error, unexpected ')' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 11
+[02-May-2014 21:20:19] PHP Parse error:  syntax error, unexpected $end in /home3/willko/public_html/thisisgroupa.com/login.php on line 166
+[02-May-2014 22:29:58] PHP Parse error:  syntax error, unexpected ']' in /home3/willko/public_html/thisisgroupa.com/admin.php on line 40
+[02-May-2014 23:23:19] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home3/willko/public_html/thisisgroupa.com/add.php on line 86
+[02-May-2014 23:38:28] PHP Parse error:  syntax error, unexpected ')' in /home3/willko/public_html/thisisgroupa.com/routing.php on line 15
+[02-May-2014 23:38:59] PHP Parse error:  syntax error, unexpected ':' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 11
+[03-May-2014 05:54:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'willko'@'localhost' (using password: NO) in /home3/willko/public_html/thisisgroupa.com/functions.php on line 7
+[03-May-2014 05:54:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home3/willko/public_html/thisisgroupa.com/functions.php on line 7
+[03-May-2014 05:54:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home3/willko/public_html/thisisgroupa.com/functions.php on line 8
+[03-May-2014 05:54:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/willko/public_html/thisisgroupa.com/functions.php:7) in /home3/willko/public_html/thisisgroupa.com/routing.php on line 25
+[03-May-2014 05:54:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/willko/public_html/thisisgroupa.com/functions.php:7) in /home3/willko/public_html/thisisgroupa.com/routing.php on line 27
+[03-May-2014 09:18:41] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/admin.php on line 47
+[03-May-2014 09:19:01] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/admin.php on line 47
+[03-May-2014 09:39:07] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 32
+[03-May-2014 09:41:18] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 32
+[03-May-2014 09:41:36] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 32
+[03-May-2014 09:45:44] PHP Parse error:  syntax error, unexpected T_STRING, expecting '(' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 32
+[03-May-2014 09:46:32] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 37
+[03-May-2014 09:47:03] PHP Parse error:  syntax error, unexpected $end in /home3/willko/public_html/thisisgroupa.com/functions.php on line 98
+[03-May-2014 09:49:33] PHP Parse error:  syntax error, unexpected $end in /home3/willko/public_html/thisisgroupa.com/functions.php on line 96
+[03-May-2014 09:55:58] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/willko/public_html/thisisgroupa.com/admin.php on line 86
+[03-May-2014 10:00:48] PHP Parse error:  syntax error, unexpected T_ELSE in /home3/willko/public_html/thisisgroupa.com/admin.php on line 91
+[03-May-2014 17:19:04] PHP Parse error:  syntax error, unexpected T_STRING in /home3/willko/public_html/thisisgroupa.com/add.php on line 78
+[03-May-2014 18:39:07] PHP Parse error:  syntax error, unexpected '<' in /home3/willko/public_html/thisisgroupa.com/displayadmin.php on line 65
+[03-May-2014 19:09:52] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[03-May-2014 19:10:12] PHP Fatal error:  Function name must be a string in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[03-May-2014 20:52:56] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/willko/public_html/thisisgroupa.com/functions.php on line 135
+[03-May-2014 20:55:36] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 135
+[03-May-2014 20:55:38] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 135
+[03-May-2014 20:55:40] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 135
+[03-May-2014 20:55:54] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 135
+[03-May-2014 20:57:54] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/willko/public_html/thisisgroupa.com/functions.php on line 135
+[03-May-2014 20:58:25] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/willko/public_html/thisisgroupa.com/functions.php on line 134
+[03-May-2014 20:58:52] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 134
+[03-May-2014 20:59:08] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 134
+[03-May-2014 20:59:28] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home3/willko/public_html/thisisgroupa.com/functions.php on line 134
+[03-May-2014 21:00:03] PHP Fatal error:  Function name must be a string in /home3/willko/public_html/thisisgroupa.com/functions.php on line 128
+[03-May-2014 21:00:59] PHP Parse error:  syntax error, unexpected ':' in /home3/willko/public_html/thisisgroupa.com/tasksave.php on line 42
+[04-May-2014 14:56:17] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[04-May-2014 15:12:12] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[04-May-2014 15:17:37] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[04-May-2014 15:22:44] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[04-May-2014 17:32:13] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[04-May-2014 19:05:52] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[04-May-2014 20:59:17] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[04-May-2014 22:43:32] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[04-May-2014 22:49:21] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[05-May-2014 01:03:15] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[05-May-2014 12:45:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[05-May-2014 12:46:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 47
+[05-May-2014 20:48:36 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[05-May-2014 20:48:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[05-May-2014 20:48:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[05-May-2014 20:49:52 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[05-May-2014 20:49:56 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[05-May-2014 20:50:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[05-May-2014 21:03:37 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[05-May-2014 21:03:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/willko/public_html/thisisgroupa.com/functions.php:41) in /home3/willko/public_html/thisisgroupa.com/functions.php on line 125
+[05-May-2014 21:05:12 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[05-May-2014 21:05:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/willko/public_html/thisisgroupa.com/functions.php:41) in /home3/willko/public_html/thisisgroupa.com/addcomment.php on line 15
+[05-May-2014 21:06:10 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 41
+[05-May-2014 21:06:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/willko/public_html/thisisgroupa.com/functions.php:41) in /home3/willko/public_html/thisisgroupa.com/addcomment.php on line 9
+[05-May-2014 21:07:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 46
+[05-May-2014 21:08:35 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 42
+[05-May-2014 21:08:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/willko/public_html/thisisgroupa.com/functions.php:42) in /home3/willko/public_html/thisisgroupa.com/addcomment.php on line 9
+[05-May-2014 21:11:33 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 42
+[05-May-2014 21:11:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/willko/public_html/thisisgroupa.com/functions.php:42) in /home3/willko/public_html/thisisgroupa.com/addcomment.php on line 9
+[05-May-2014 21:11:43 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 42
+[05-May-2014 21:11:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/willko/public_html/thisisgroupa.com/functions.php:42) in /home3/willko/public_html/thisisgroupa.com/addcomment.php on line 9
+[05-May-2014 21:12:17 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 42
+[05-May-2014 21:12:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/willko/public_html/thisisgroupa.com/functions.php:42) in /home3/willko/public_html/thisisgroupa.com/addcomment.php on line 9
+[05-May-2014 21:13:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 42
+[05-May-2014 21:13:21 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/willko/public_html/thisisgroupa.com/functions.php:42) in /home3/willko/public_html/thisisgroupa.com/addcomment.php on line 9
+[05-May-2014 21:32:23 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/willko/public_html/thisisgroupa.com/admin.php on line 68
+[05-May-2014 21:38:18 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 238
+[05-May-2014 21:38:18 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 238
+[05-May-2014 21:38:18 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 238
+[05-May-2014 21:38:18 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 238
+[05-May-2014 21:38:18 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 238
+[05-May-2014 21:38:18 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 238
+[05-May-2014 21:38:18 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 238
+[05-May-2014 21:38:18 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 238
+[05-May-2014 21:38:18 America/Chicago] PHP Warning:  Illegal string offset 'description' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 238
+[05-May-2014 21:40:15 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 245
+[05-May-2014 21:41:50 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 246
+[05-May-2014 21:52:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/willko/public_html/thisisgroupa.com/users.php on line 54
+[05-May-2014 22:01:21 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home3/willko/public_html/thisisgroupa.com/functions.php on line 55
+[05-May-2014 23:09:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'images' (T_STRING), expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/index.php on line 3
+[05-May-2014 23:20:22 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 107
+[05-May-2014 23:20:40 America/Chicago] PHP Fatal error:  Cannot redeclare checkadmin() (previously declared in /home3/willko/public_html/thisisgroupa.com/functions.php:3) in /home3/willko/public_html/thisisgroupa.com/functions.php on line 13
+[05-May-2014 23:43:39 America/Chicago] PHP Fatal error:  Call to undefined function now() in /home3/willko/public_html/thisisgroupa.com/functions.php on line 120
+[06-May-2014 00:19:13 America/Chicago] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting ',' or ';' in /home3/willko/public_html/thisisgroupa.com/functions.php on line 223
+[06-May-2014 00:36:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home3/willko/public_html/thisisgroupa.com/addcomment.php on line 12
